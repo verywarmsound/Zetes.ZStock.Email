@@ -1,0 +1,59 @@
+2018-03-01 16:14:48,280  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-01 16:14:48,810  DEBUG found emails in the queue: 0
+2018-03-01 16:15:18,825  DEBUG found emails in the queue: 0
+2018-03-01 16:15:48,833  DEBUG found emails in the queue: 0
+2018-03-01 16:16:18,877  DEBUG found emails in the queue: 0
+2018-03-01 16:16:48,906  DEBUG found emails in the queue: 0
+2018-03-01 16:17:18,933  DEBUG found emails in the queue: 0
+2018-03-01 16:17:48,959  DEBUG found emails in the queue: 0
+2018-03-01 16:18:18,988  DEBUG found emails in the queue: 0
+2018-03-01 16:18:49,015  DEBUG found emails in the queue: 0
+2018-03-01 16:19:19,044  DEBUG found emails in the queue: 0
+2018-03-01 16:19:49,078  DEBUG found emails in the queue: 0
+2018-03-01 16:20:19,173  INFO  found emails in the queue: 1
+2018-03-01 16:20:24,168  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: OBB stavební materiály,spol. s r.o., with OriginalDocument: Vážený zákazníku,
+ Dovolujeme si Vám oznámit, že Vaše objednávka(ky) c. 0831159022 byly dne 1.3.2018 16:06:08 vyexpedovány z našeho skladu.
+ S pozdravem,
+  bla bla bla
+2018-03-01 16:20:54,300  DEBUG found emails in the queue: 0
+2018-03-01 16:21:24,324  DEBUG found emails in the queue: 0
+2018-03-01 16:21:54,343  DEBUG found emails in the queue: 0
+2018-03-01 16:22:24,367  DEBUG found emails in the queue: 0
+2018-03-01 16:22:54,384  DEBUG found emails in the queue: 0
+2018-03-01 16:23:24,400  DEBUG found emails in the queue: 0
+2018-03-01 16:23:54,423  DEBUG found emails in the queue: 0
+2018-03-01 16:24:24,447  DEBUG found emails in the queue: 0
+2018-03-01 16:24:54,464  DEBUG found emails in the queue: 0
+2018-03-01 16:25:24,481  DEBUG found emails in the queue: 0
+2018-03-01 16:25:54,497  DEBUG found emails in the queue: 0
+2018-03-01 16:26:24,512  DEBUG found emails in the queue: 0
+2018-03-01 16:26:54,522  DEBUG found emails in the queue: 0
+2018-03-01 16:27:24,535  DEBUG found emails in the queue: 0
+2018-03-01 16:27:54,569  DEBUG found emails in the queue: 0
+2018-03-01 16:28:24,589  DEBUG found emails in the queue: 0
+2018-03-01 16:28:54,603  DEBUG found emails in the queue: 0
+2018-03-01 16:29:24,630  DEBUG found emails in the queue: 0
+2018-03-01 16:29:54,645  DEBUG found emails in the queue: 0
+2018-03-01 16:30:24,674  DEBUG found emails in the queue: 0
+2018-03-01 16:30:54,706  DEBUG found emails in the queue: 0
+2018-03-01 16:31:24,723  DEBUG found emails in the queue: 0
+2018-03-01 16:31:54,746  DEBUG found emails in the queue: 0
+2018-03-01 16:32:24,761  DEBUG found emails in the queue: 0
+2018-03-01 16:32:54,778  DEBUG found emails in the queue: 0
+2018-03-01 16:33:24,798  DEBUG found emails in the queue: 0
+2018-03-01 16:33:54,811  DEBUG found emails in the queue: 0
+2018-03-01 16:34:18,494  INFO  Application is ended
+2018-03-01 16:34:24,827  DEBUG found emails in the queue: 0
+2018-03-01 16:40:21,511  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-01 16:40:22,176  INFO  found emails in the queue: 1
+2018-03-01 16:42:32,907  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-01 16:42:33,409  INFO  found emails in the queue: 1
+2018-03-01 16:48:57,604  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-01 16:48:58,156  INFO  found emails in the queue: 1
+2018-03-01 16:50:11,967  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-01 16:50:12,595  INFO  found emails in the queue: 1
+2018-03-01 16:54:45,197  ERROR System.Exception: Sequence contains more than one element - Zetes.ZStock.DB.Domain.Order
+   v Zetes.ZStock.DB.Extensions.LinqExtension.SingleOnlyOrDefault[TSource](IEnumerable`1 source) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.DB\Extensions\LinqExtension.cs:rádek 28
+   v Zetes.ZStock.DB.Repository.NHibernateRepository`1.FindBy(Expression`1 expression) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.DB\Repository\NHibernateRepository.cs:rádek 327
+   v Zetes.ZStock.Email.Program..ctor() v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\Program.cs:rádek 55
+   v Zetes.ZStock.Email.Program.Main(String[] args) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\Program.cs:rádek 65

@@ -1,0 +1,125 @@
+2018-02-26 17:26:53,404  DEBUG started watch
+2018-02-26 17:26:53,407  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-26 17:26:53,952  INFO  found emails in the queue: 1
+2018-02-26 17:26:59,341  INFO  Sent email Id: 3444, time: 02/26/2018 17:26:59, to: imkarpacz@gmail.com, Text: Vážený zákazníku,
+ Dovolujeme si Vám oznámit, že Vaše objednávka(ky) c. 0831159022 byly dne 20. 2. 2018 15:37:15 vyexpedovány z našeho skladu.
+ S pozdravem,
+ BODOS Czechia a.s.
+2018-02-26 17:27:29,642  DEBUG started watch
+2018-02-26 17:27:29,654  DEBUG found emails in the queue: 0
+2018-02-26 17:27:59,659  DEBUG started watch
+2018-02-26 17:27:59,670  DEBUG found emails in the queue: 0
+2018-02-26 17:28:29,674  DEBUG started watch
+2018-02-26 17:28:29,686  DEBUG found emails in the queue: 0
+2018-02-26 17:28:59,691  DEBUG started watch
+2018-02-26 17:28:59,701  DEBUG found emails in the queue: 0
+2018-02-26 17:29:29,705  DEBUG started watch
+2018-02-26 17:29:29,715  DEBUG found emails in the queue: 0
+2018-02-26 17:29:59,718  DEBUG started watch
+2018-02-26 17:29:59,731  DEBUG found emails in the queue: 0
+2018-02-26 17:30:29,757  DEBUG started watch
+2018-02-26 17:30:29,773  DEBUG found emails in the queue: 0
+2018-02-26 17:30:59,777  DEBUG started watch
+2018-02-26 17:30:59,791  DEBUG found emails in the queue: 0
+2018-02-26 17:31:29,795  DEBUG started watch
+2018-02-26 17:31:29,808  DEBUG found emails in the queue: 0
+2018-02-26 17:31:59,812  DEBUG started watch
+2018-02-26 17:31:59,823  DEBUG found emails in the queue: 0
+2018-02-26 17:32:29,827  DEBUG started watch
+2018-02-26 17:32:30,054  DEBUG found emails in the queue: 0
+2018-02-26 17:33:00,058  DEBUG started watch
+2018-02-26 17:33:00,074  DEBUG found emails in the queue: 0
+2018-02-26 17:33:30,077  DEBUG started watch
+2018-02-26 17:33:30,091  DEBUG found emails in the queue: 0
+2018-02-26 17:34:00,161  DEBUG started watch
+2018-02-26 17:34:00,168  DEBUG found emails in the queue: 0
+2018-02-26 17:34:30,173  DEBUG started watch
+2018-02-26 17:34:30,184  DEBUG found emails in the queue: 0
+2018-02-26 17:35:00,190  DEBUG started watch
+2018-02-26 17:35:00,202  DEBUG found emails in the queue: 0
+2018-02-26 17:35:30,206  DEBUG started watch
+2018-02-26 17:35:30,224  DEBUG found emails in the queue: 0
+2018-02-26 17:36:00,231  DEBUG started watch
+2018-02-26 17:36:00,241  DEBUG found emails in the queue: 0
+2018-02-26 17:36:30,243  DEBUG started watch
+2018-02-26 17:36:30,257  DEBUG found emails in the queue: 0
+2018-02-26 17:37:00,290  DEBUG started watch
+2018-02-26 17:37:00,301  DEBUG found emails in the queue: 0
+2018-02-26 17:37:30,308  DEBUG started watch
+2018-02-26 17:37:30,317  DEBUG found emails in the queue: 0
+2018-02-26 17:38:00,324  DEBUG started watch
+2018-02-26 17:38:00,334  DEBUG found emails in the queue: 0
+2018-02-26 17:38:30,571  DEBUG started watch
+2018-02-26 17:38:30,584  DEBUG found emails in the queue: 0
+2018-02-26 17:39:00,591  DEBUG started watch
+2018-02-26 17:39:00,605  DEBUG found emails in the queue: 0
+2018-02-26 17:39:30,612  DEBUG started watch
+2018-02-26 17:39:30,622  DEBUG found emails in the queue: 0
+2018-02-26 17:40:00,628  DEBUG started watch
+2018-02-26 17:40:00,639  DEBUG found emails in the queue: 0
+2018-02-26 17:40:30,647  DEBUG started watch
+2018-02-26 17:40:30,660  DEBUG found emails in the queue: 0
+2018-02-26 17:41:00,668  DEBUG started watch
+2018-02-26 17:41:00,678  DEBUG found emails in the queue: 0
+2018-02-26 17:41:30,685  DEBUG started watch
+2018-02-26 17:41:30,698  DEBUG found emails in the queue: 0
+2018-02-26 17:42:00,707  DEBUG started watch
+2018-02-26 17:42:00,718  DEBUG found emails in the queue: 0
+2018-02-26 17:42:30,726  DEBUG started watch
+2018-02-26 17:42:30,741  DEBUG found emails in the queue: 0
+2018-02-26 17:43:00,748  DEBUG started watch
+2018-02-26 17:43:00,760  DEBUG found emails in the queue: 0
+2018-02-26 17:43:30,768  DEBUG started watch
+2018-02-26 17:43:30,778  DEBUG found emails in the queue: 0
+2018-02-26 17:44:00,787  DEBUG started watch
+2018-02-26 17:44:00,794  DEBUG found emails in the queue: 0
+2018-02-26 17:44:30,801  DEBUG started watch
+2018-02-26 17:44:30,812  DEBUG found emails in the queue: 0
+2018-02-26 17:45:00,819  DEBUG started watch
+2018-02-26 17:45:00,835  DEBUG found emails in the queue: 0
+2018-02-26 17:45:30,842  DEBUG started watch
+2018-02-26 17:45:30,854  DEBUG found emails in the queue: 0
+2018-02-26 17:46:00,864  DEBUG started watch
+2018-02-26 17:46:00,871  DEBUG found emails in the queue: 0
+2018-02-26 17:46:30,878  DEBUG started watch
+2018-02-26 17:46:30,891  DEBUG found emails in the queue: 0
+2018-02-26 17:47:00,897  DEBUG started watch
+2018-02-26 17:47:00,908  DEBUG found emails in the queue: 0
+2018-02-26 17:47:30,915  DEBUG started watch
+2018-02-26 17:47:30,925  DEBUG found emails in the queue: 0
+2018-02-26 17:48:00,934  DEBUG started watch
+2018-02-26 17:48:00,944  DEBUG found emails in the queue: 0
+2018-02-26 17:48:03,193  INFO  Application is ended
+2018-02-26 17:48:30,952  DEBUG started watch
+2018-02-26 17:48:30,959  DEBUG found emails in the queue: 0
+2018-02-26 18:11:49,265  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-26 18:11:49,827  DEBUG found emails in the queue: 0
+2018-02-26 18:12:19,857  DEBUG found emails in the queue: 0
+2018-02-26 18:12:49,887  DEBUG found emails in the queue: 0
+2018-02-26 18:13:19,894  DEBUG found emails in the queue: 0
+2018-02-26 18:13:49,909  DEBUG found emails in the queue: 0
+2018-02-26 18:14:19,923  DEBUG found emails in the queue: 0
+2018-02-26 18:14:49,956  DEBUG found emails in the queue: 0
+2018-02-26 18:15:19,968  DEBUG found emails in the queue: 0
+2018-02-26 18:15:49,979  DEBUG found emails in the queue: 0
+2018-02-26 18:16:19,996  DEBUG found emails in the queue: 0
+2018-02-26 18:16:50,009  DEBUG found emails in the queue: 0
+2018-02-26 18:17:20,017  DEBUG found emails in the queue: 0
+2018-02-26 18:17:50,031  DEBUG found emails in the queue: 0
+2018-02-26 18:18:20,048  DEBUG found emails in the queue: 0
+2018-02-26 18:18:50,069  DEBUG found emails in the queue: 0
+2018-02-26 18:19:20,134  INFO  found emails in the queue: 1
+2018-02-26 18:19:24,602  INFO  Sent email Id: 3450, time: 02/26/2018 18:19:24, to: imkarpacz@gmail.com, Text: Vážený zákazníku,
+ Dovolujeme si Vám oznámit, že Vaše objednávka(ky) c. 0831159022 byly dne 26.2.2018 18:18:26 vyexpedovány z našeho skladu.
+ S pozdravem,
+ BODOS Czechia a.s., Customer: OBB stavební materiály,spol. s r.o.
+2018-02-26 18:19:54,649  DEBUG found emails in the queue: 0
+2018-02-26 18:20:24,660  DEBUG found emails in the queue: 0
+2018-02-26 18:20:54,669  DEBUG found emails in the queue: 0
+2018-02-26 18:21:24,676  DEBUG found emails in the queue: 0
+2018-02-26 18:21:54,686  DEBUG found emails in the queue: 0
+2018-02-26 18:22:24,695  DEBUG found emails in the queue: 0
+2018-02-26 18:22:54,705  DEBUG found emails in the queue: 0
+2018-02-26 18:23:24,722  DEBUG found emails in the queue: 0
+2018-02-26 18:23:52,836  INFO  Application is ended
+2018-02-26 18:23:54,740  DEBUG found emails in the queue: 0

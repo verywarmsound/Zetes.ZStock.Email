@@ -1,0 +1,73 @@
+2018-03-12 13:46:35,905  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 13:46:36,448  DEBUG there is no emails in the queue
+2018-03-12 13:47:06,483  DEBUG there is no emails in the queue
+2018-03-12 13:47:36,523  DEBUG there is no emails in the queue
+2018-03-12 13:48:06,572  DEBUG there is no emails in the queue
+2018-03-12 13:48:36,613  DEBUG there is no emails in the queue
+2018-03-12 13:49:06,658  DEBUG there is no emails in the queue
+2018-03-12 13:49:36,685  DEBUG there is no emails in the queue
+2018-03-12 13:50:06,723  DEBUG there is no emails in the queue
+2018-03-12 13:50:36,766  DEBUG there is no emails in the queue
+2018-03-12 13:51:06,851  INFO  found emails in the queue: 1
+2018-03-12 13:51:12,144  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61
+2018-03-12 13:51:42,244  DEBUG there is no emails in the queue
+2018-03-12 13:52:12,323  DEBUG there is no emails in the queue
+2018-03-12 13:52:42,364  DEBUG there is no emails in the queue
+2018-03-12 13:53:12,389  DEBUG there is no emails in the queue
+2018-03-12 13:53:28,041  INFO  Application is ended
+2018-03-12 13:53:42,415  DEBUG there is no emails in the queue
+2018-03-12 13:54:37,854  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 13:54:38,350  INFO  found emails in the queue: 1
+2018-03-12 13:54:42,970  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61
+2018-03-12 13:55:13,089  DEBUG there is no emails in the queue
+2018-03-12 13:55:43,134  DEBUG there is no emails in the queue
+2018-03-12 13:56:13,176  INFO  found emails in the queue: 1
+2018-03-12 13:56:17,583  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61
+2018-03-12 13:56:47,649  DEBUG there is no emails in the queue
+2018-03-12 13:57:17,695  DEBUG there is no emails in the queue
+2018-03-12 13:57:47,732  DEBUG there is no emails in the queue
+2018-03-12 13:58:17,757  DEBUG there is no emails in the queue
+2018-03-12 13:58:47,795  DEBUG there is no emails in the queue
+2018-03-12 13:59:17,837  DEBUG there is no emails in the queue
+2018-03-12 13:59:47,880  DEBUG there is no emails in the queue
+2018-03-12 14:00:17,911  DEBUG there is no emails in the queue
+2018-03-12 14:00:47,951  DEBUG there is no emails in the queue
+2018-03-12 14:01:17,997  DEBUG there is no emails in the queue
+2018-03-12 14:01:48,039  DEBUG there is no emails in the queue
+2018-03-12 14:01:52,746  INFO  Application is ended
+2018-03-12 14:02:18,078  DEBUG there is no emails in the queue
+2018-03-12 14:05:53,730  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 14:05:54,349  DEBUG there is no emails in the queue
+2018-03-12 14:06:24,384  DEBUG there is no emails in the queue
+2018-03-12 14:06:54,409  DEBUG there is no emails in the queue
+2018-03-12 14:07:16,413  INFO  Application is ended
+2018-03-12 14:07:24,437  DEBUG there is no emails in the queue
+2018-03-12 14:10:37,922  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 14:10:38,447  DEBUG there is no emails in the queue
+2018-03-12 14:11:08,485  DEBUG there is no emails in the queue
+2018-03-12 14:13:09,006  DEBUG there is no emails in the queue
+2018-03-12 14:14:41,089  DEBUG there is no emails in the queue
+2018-03-12 14:15:46,097  DEBUG there is no emails in the queue
+2018-03-12 14:15:49,773  INFO  Application is ended
+2018-03-12 14:15:59,843  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 14:16:00,428  DEBUG there is no emails in the queue
+2018-03-12 14:16:16,144  DEBUG there is no emails in the queue
+2018-03-12 14:16:30,498  DEBUG there is no emails in the queue
+2018-03-12 14:17:44,434  INFO  found emails in the queue: 1
+2018-03-12 14:23:01,008  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61
+2018-03-12 14:24:35,618  INFO  found emails in the queue: 1
+2018-03-12 14:29:13,387  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61
+2018-03-12 14:29:43,454  DEBUG there is no emails in the queue
+2018-03-12 14:30:13,496  DEBUG there is no emails in the queue
+2018-03-12 14:30:43,524  DEBUG there is no emails in the queue
+2018-03-12 14:30:48,085  INFO  Application is ended
+2018-03-12 14:31:13,555  DEBUG there is no emails in the queue
+2018-03-12 14:32:06,513  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-12 14:32:07,077  INFO  found emails in the queue: 1
+2018-03-12 14:32:11,700  ERROR System.NullReferenceException: Odkaz na objekt není nastaven na instanci objektu.
+   v Zetes.ZStock.Email.SendEmails.Send(IRepository`1 _queuedEmailRepo, IUnitOfWork _unitOfWork, IQueuedEmailService _queuedEmailService) v C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\SendMails.cs:rádek 61

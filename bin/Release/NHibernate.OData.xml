@@ -1,0 +1,785 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NHibernate.OData</name>
+    </assembly>
+    <members>
+        <member name="T:NHibernate.OData.ErrorMessages">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_CannotCompareTypes">
+            <summary>
+              Looks up a localized string similar to Cannot compare values of type &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_CannotInverse">
+            <summary>
+              Looks up a localized string similar to Cannot inverse literal of type &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_CannotNegate">
+            <summary>
+              Looks up a localized string similar to Cannot negate literal of type &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_IncompatibleTypes">
+            <summary>
+              Looks up a localized string similar to Operation &apos;{0}&apos; is not supported on type &apos;{1}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_LambdaMemberMustStartWithParameter">
+            <summary>
+              Looks up a localized string similar to Member expressions inside a lambda expression must start with a lambda parameter.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Expression_LambdaParameterIsAlreadyDefined">
+            <summary>
+              Looks up a localized string similar to Lambda expression parameter &apos;{0}&apos; has been already defined in the parent scope..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_DecimalCannotHaveExponent">
+            <summary>
+              Looks up a localized string similar to Unexpected exponent for decimal literal at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_ExpectedDigitsAfterExponent">
+            <summary>
+              Looks up a localized string similar to Expected digits after exponent at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_InvalidBinaryFormat">
+            <summary>
+              Looks up a localized string similar to Binary format is invalid at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_InvalidDateTimeFormat">
+            <summary>
+              Looks up a localized string similar to Date/time format is invalid at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_InvalidDurationFormat">
+            <summary>
+              Looks up a localized string similar to Duration format is invalid at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_InvalidGuidFormat">
+            <summary>
+              Looks up a localized string similar to Guid format is invalid at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_LongCannotHaveExponent">
+            <summary>
+              Looks up a localized string similar to Unexpected exponent for long literal at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_UnexpectedCharacter">
+            <summary>
+              Looks up a localized string similar to Unexpecter character &apos;{0}&apos; at offset {1}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Lexer_UnterminatedString">
+            <summary>
+              Looks up a localized string similar to Unterminated string starting at {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.LiteralUtil_IncompatibleTypes">
+            <summary>
+              Looks up a localized string similar to Operation is not compatible on types &apos;{0}&apos; and &apos;{1}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.LiteralUtil_UnknownEdmType">
+            <summary>
+              Looks up a localized string similar to Unknown EDM type &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Method_CannotCast">
+            <summary>
+              Looks up a localized string similar to Cannot cast value to &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Method_InvalidArgumentType">
+            <summary>
+              Looks up a localized string similar to Argument {1} of method &apos;{0}&apos; must be of type &apos;{2}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataExpression_InvalidQueryStringElement">
+            <summary>
+              Looks up a localized string similar to Cannot understand query string element &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataExpression_SkipTopMustBePositive">
+            <summary>
+              Looks up a localized string similar to Query string parameter &apos;{0}&apos; must be a positive integer..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataRequest_AmbiguousEntityName">
+            <summary>
+              Looks up a localized string similar to Could not resolve entity name &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataRequest_PropertyDoesNotExistOnParent">
+            <summary>
+              Looks up a localized string similar to Entity &apos;{0}&apos; does not have a field &apos;{1}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataRequest_PropertyNotARelationship">
+            <summary>
+              Looks up a localized string similar to Property &apos;{0}&apos; of entity &apos;{1}&apos; is not a relationship..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataService_PersisterMustHaveIdentifierProperty">
+            <summary>
+              Looks up a localized string similar to Persister of type &apos;{0}&apos; does not have an identifier property..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.ODataService_UnsupportedPersister">
+            <summary>
+              Looks up a localized string similar to Persister of type &apos;{0}&apos; is not supported..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.OrderByParser_ExpectedNextOrEnd">
+            <summary>
+              Looks up a localized string similar to Expected end, comma, asc or desc..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ArgumentMustBeStringLiteral">
+            <summary>
+              Looks up a localized string similar to Argument {1} of method &apos;{0}&apos; must be a string literal..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_CannotParseArgumentList">
+            <summary>
+              Looks up a localized string similar to Cannot parse argument list..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_CannotParseLambdaExpression">
+            <summary>
+              Looks up a localized string similar to Cannot parse lambda expression..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_EmptySource">
+            <summary>
+              Looks up a localized string similar to Unexpected empty expression..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedBinaryOperator">
+            <summary>
+              Looks up a localized string similar to Expected binary operator..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedBooleanExpression">
+            <summary>
+              Looks up a localized string similar to Expected boolean expression..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedBooleanLiteral">
+            <summary>
+              Looks up a localized string similar to Expected boolean literal..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedIdentifier">
+            <summary>
+              Looks up a localized string similar to Expected identifier..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedLiteral">
+            <summary>
+              Looks up a localized string similar to Expected literal..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedLiteralExpression">
+            <summary>
+              Looks up a localized string similar to Expected literal expression..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedOperator">
+            <summary>
+              Looks up a localized string similar to Expected operator..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedSyntax">
+            <summary>
+              Looks up a localized string similar to Expected syntax..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_ExpectedToken">
+            <summary>
+              Looks up a localized string similar to Expected {0}..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_IllegalArgumentCount">
+            <summary>
+              Looks up a localized string similar to Method &apos;{0}&apos; expectes {1} arguments..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_IllegalVarArgumentCount">
+            <summary>
+              Looks up a localized string similar to Method &apos;{0}&apos; expects between {1} and {2} arguments..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_TrailingTokens">
+            <summary>
+              Looks up a localized string similar to Unexpected trailing tokens..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_UnexpectedEnd">
+            <summary>
+              Looks up a localized string similar to Unexpected end..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_UnknownCollectionMethod">
+            <summary>
+              Looks up a localized string similar to Unknown collection method &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Parser_UnknownMethod">
+            <summary>
+              Looks up a localized string similar to Unknown method &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.PathParser_InvalidPath">
+            <summary>
+              Looks up a localized string similar to Could not parse path..
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Resolve_CannotResolveDynamicComponentMember">
+            <summary>
+              Looks up a localized string similar to Cannot resolve member &apos;{0}&apos; of dynamic component &apos;{1}&apos; on &apos;{2}&apos;.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ErrorMessages.Resolve_CannotResolveName">
+            <summary>
+              Looks up a localized string similar to Cannot resolve name &apos;{0}&apos; on &apos;{1}&apos;.
+            </summary>
+        </member>
+        <member name="T:NHibernate.OData.NameResolver">
+            <summary>
+            Name resolver to resolve names from queries to entity names.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.NameResolver.ResolveName(System.String,System.Type,System.Boolean)">
+            <summary>
+            Resolve a query name to an entity name.
+            </summary>
+            <param name="name">The name to map.</param>
+            <param name="type">The type of the entity to map the name for.</param>
+            <param name="caseSensitive">Whether the <param name="name"> parameter must be treated case sensitive.</param></param>
+            <returns>The mapped name and member type or null when the name could not be resolved.</returns>
+        </member>
+        <member name="T:NHibernate.OData.Inflector">
+            <summary>
+            Contains utility methods for working with English natural language strings.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.Inflector.Pluralize(System.String)">
+            <summary>
+            Get the plural form of a singular text.
+            </summary>
+            <param name="value">The singular text for which to get
+            the plural form.</param>
+            <returns>The plural form of the singular text.</returns>
+        </member>
+        <member name="M:NHibernate.OData.Inflector.Singularize(System.String)">
+            <summary>
+            Get the singular for for a plural text.
+            </summary>
+            <param name="value">The plural text for which to
+            get the singular form.</param>
+            <returns>The singular form for the plural text.</returns>
+        </member>
+        <member name="M:NHibernate.OData.Inflector.Camelize(System.String)">
+            <summary>
+            Converts an underscore style text into a camelized form.
+            </summary>
+            <param name="value">The underscore style text to get the
+            camelized form for.</param>
+            <returns>The camelized form for the provided text.</returns>
+        </member>
+        <member name="M:NHibernate.OData.Inflector.Camelize(System.String,System.Boolean)">
+            <summary>
+            Converts an underscore style text into a camelized form.
+            </summary>
+            <param name="value">The underscore style text to get the
+            camelized form for.</param>
+            <param name="firstLetterUppercase">true when the first
+            letter of the returned value should be upper case. The default
+            value for this parameter is true.</param>
+            <returns>The camelized form for the provided text.</returns>
+        </member>
+        <member name="M:NHibernate.OData.Inflector.Underscore(System.String)">
+            <summary>
+            Converts a camelized style text into an underscored form.
+            </summary>
+            <param name="value">The camelized style text to get the
+            underscored form for.</param>
+            <returns>The underscored form for the provided text.</returns>
+        </member>
+        <member name="T:NHibernate.OData.ODataContext">
+            <summary>
+            Context for executing OData queries.
+            </summary>
+            <remarks>
+            The ODataContext class provides a caching context for OData queries.
+            If it is necessary to manage the lifetime of this cache, the ODataContext
+            class can be used directly. The ODataParser class calls into a
+            static instance of the ODataContext class.
+            </remarks>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.String,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.String,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.Type,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.Type,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.Type,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery(NHibernate.ISession,System.Type,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery``1(NHibernate.ISession,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryString">OData query string.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery``1(NHibernate.ISession,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery``1(NHibernate.ISession,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataContext.ODataQuery``1(NHibernate.ISession,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="T:NHibernate.OData.ODataParserConfiguration">
+            <summary>
+            Provide configuration for the OData parser.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.ODataParserConfiguration.#ctor">
+            <summary>
+            Create a new instance of the ODataParserConfiguration class.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataParserConfiguration.CaseSensitive">
+            <summary>
+            Whether or not OData queries should be parsed case sensitive.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataParserConfiguration.OuterJoin">
+            <summary>
+            By default joins will be inner joins. Set this to true to use left outer joins.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataParserConfiguration.UTF8Unescape">
+            <summary>
+            Unescape URI query string percent-encoded parts using UTF-8 characted encoding
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataParserConfiguration.NameResolver">
+            <summary>
+            Custom name resolver to influence the way member names are resolved.
+            </summary>
+        </member>
+        <member name="T:NHibernate.OData.ODataRequest">
+            <summary>
+            Represents an executed OData request.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataRequest.DataServiceVersion">
+            <summary>
+            Gets the data service version of the response. This must be set
+            to the HTTP header "DataServiceVersion" in the HTTP response.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataRequest.Response">
+            <summary>
+            Gets the response of the OData request.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataRequest.ContentType">
+            <summary>
+            Gets the content type of the OData request. This must be set to
+            the HTTP header "Content-Type" in the HTTP response.
+            </summary>
+        </member>
+        <member name="T:NHibernate.OData.ODataService">
+            <summary>
+            Service for responding to OData queries.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.ODataService.#ctor(NHibernate.ISessionFactory,System.Xml.Linq.XNamespace,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NHibernate.OData.ODataService"/> class
+            with the specified session factory, service namespace, schema namespace
+            and container name.
+            </summary>
+            <param name="sessionFactory">Session factory for which the service
+            is created.</param>
+            <param name="serviceNamespace">Namespace the service is registered
+            on. This is the web address through which the service can be reached
+            publicly.</param>
+            <param name="schemaNamespace">Namespace of the schema. This usually
+            is the name of the domain and is used to identify the schema.</param>
+        </member>
+        <member name="M:NHibernate.OData.ODataService.#ctor(NHibernate.ISessionFactory,System.Xml.Linq.XNamespace,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NHibernate.OData.ODataService"/> class
+            with the specified session factory, service namespace, schema namespace
+            and container name.
+            </summary>
+            <param name="sessionFactory">Session factory for which the service
+            is created.</param>
+            <param name="serviceNamespace">Namespace the service is registered
+            on. This is the web address through which the service can be reached
+            publicly.</param>
+            <param name="schemaNamespace">Namespace of the schema. This usually
+            is the name of the domain and is used to identify the schema.</param>
+            <param name="containerName">Container name. This is used to identify
+            the current container and can e.g. be the name of the database.
+            Defaults to the schema namespace.</param>
+        </member>
+        <member name="M:NHibernate.OData.ODataService.Query(NHibernate.ISession,System.String)">
+            <summary>
+            Executes an OData query with the specified session, path and
+            query string and returns a request object.
+            </summary>
+            <param name="session">Session to execute the query on.</param>
+            <param name="path">Path component of the OData request.</param>
+            <returns>Completed OData request.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataService.Query(NHibernate.ISession,System.String,System.String)">
+            <summary>
+            Executes an OData query with the specified session, path and
+            query string and returns a request object.
+            </summary>
+            <param name="session">Session to execute the query on.</param>
+            <param name="path">Path component of the OData request.</param>
+            <param name="queryString">Query string component of the OData
+            request.</param>
+            <returns>Completed OData request.</returns>
+        </member>
+        <member name="P:NHibernate.OData.ODataService.ServiceNamespace">
+            <summary>
+            Gets the namespace the service is registered on.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataService.SchemaNamespace">
+            <summary>
+            Gets the schema namespace.
+            </summary>
+        </member>
+        <member name="P:NHibernate.OData.ODataService.ContainerName">
+            <summary>
+            Gets the container namespace.
+            </summary>
+        </member>
+        <member name="T:NHibernate.OData.ODataException">
+            <summary>
+            Represents an error occurred while parsing an OData query string.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.ODataException.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NHibernate.OData.ODataException"/>
+            class.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.ODataException.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NHibernate.OData.ODataException"/>
+            class with the specified error message.
+            </summary>
+            <param name="message">The message that describes the error.</param>
+        </member>
+        <member name="M:NHibernate.OData.ODataException.#ctor(System.String,System.Exception)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NHibernate.OData.ODataException"/>
+            class with the specified error message and a reference to the inner
+            exception that is the cause of this exception.
+            </summary>
+            <param name="message">The message that describes the error.</param>
+            <param name="innerException">The exception that is the cause of the
+            current exception, or a null reference (Nothing in Visual Basic)
+            if no inner exception is specified.</param>
+        </member>
+        <member name="M:NHibernate.OData.ODataException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Initializes a new instance of the System.Exception class with serialized
+             data.
+            </summary>
+            <param name="info">The <see cref="T:System.Runtime.Serialization.SerializationInfo"/>
+            that holds the serialized object data about the exception being thrown.</param>
+            <param name="context">The <see cref="T:System.Runtime.Serialization.StreamingContext"/>
+            that contains contextual information about the source or destination.</param>
+        </member>
+        <member name="T:NHibernate.OData.ODataParser">
+            <summary>
+            OData parser for NHibernate.
+            </summary>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.String,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.String,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="entityName">Name of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.Type,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.Type,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.Type,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery(NHibernate.ISession,System.Type,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="persistentClass">Type of the entity to query.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery``1(NHibernate.ISession,System.String)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryString">OData query string.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery``1(NHibernate.ISession,System.String,NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Parses an OData query string and builds an ICriteria for it.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryString">OData query string.</param>
+            <param name="configuration">Extra configuration.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery``1(NHibernate.ISession,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+        <member name="M:NHibernate.OData.ODataParser.ODataQuery``1(NHibernate.ISession,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}},NHibernate.OData.ODataParserConfiguration)">
+            <summary>
+            Builds an ICriteria for an already parsed query string.
+            </summary>
+            <param name="session">NHibernate session to build the
+            ICriteria for.</param>
+            <param name="queryStringParts">Unescaped query string parts.</param>
+            <param name="configuration">Extra configuration.</param>
+            <typeparam name="T">Type of the entity to query.</typeparam>
+            <returns>An <see cref="T:NHibernate.ICriteria"/> based on the provided
+            query string.</returns>
+        </member>
+    </members>
+</doc>

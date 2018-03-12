@@ -1,0 +1,36 @@
+2018-02-27 17:15:05,880  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-27 17:15:06,598  DEBUG found emails in the queue: 0
+2018-02-27 17:15:36,632  DEBUG found emails in the queue: 0
+2018-02-27 17:16:06,641  DEBUG found emails in the queue: 0
+2018-02-27 17:16:36,655  DEBUG found emails in the queue: 0
+2018-02-27 17:17:06,662  DEBUG found emails in the queue: 0
+2018-02-27 17:17:36,675  DEBUG found emails in the queue: 0
+2018-02-27 17:18:06,687  DEBUG found emails in the queue: 0
+2018-02-27 17:18:36,700  DEBUG found emails in the queue: 0
+2018-02-27 17:19:06,714  DEBUG found emails in the queue: 0
+2018-02-27 17:19:36,726  DEBUG found emails in the queue: 0
+2018-02-27 17:20:06,729  DEBUG found emails in the queue: 0
+2018-02-27 17:20:36,732  DEBUG found emails in the queue: 0
+2018-02-27 17:21:06,735  DEBUG found emails in the queue: 0
+2018-02-27 17:21:36,737  DEBUG found emails in the queue: 0
+2018-02-27 17:22:06,772  DEBUG found emails in the queue: 0
+2018-02-27 17:22:36,794  DEBUG found emails in the queue: 0
+2018-02-27 17:23:06,815  DEBUG found emails in the queue: 0
+2018-02-27 17:23:36,818  DEBUG found emails in the queue: 0
+2018-02-27 17:24:06,832  DEBUG found emails in the queue: 0
+2018-02-27 22:02:46,244  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-27 22:02:46,773  INFO  found emails in the queue: 1
+2018-02-27 22:26:27,663  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-27 22:26:28,340  INFO  found emails in the queue: 1
+2018-02-27 22:35:27,293  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-27 22:35:27,785  INFO  found emails in the queue: 1
+2018-02-27 22:37:59,651  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-02-27 22:38:00,141  INFO  found emails in the queue: 1
+2018-02-27 22:38:05,203  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: OBB stavební materiály,spol. s r.o., with OriginalDocument: Vážený zákazníku,
+ Dovolujeme si Vám oznámit, že Vaše objednávka(ky) c. 0831159022 byly dne 27.2.2018 17:14:29 vyexpedovány z našeho skladu.
+ S pozdravem,
+ BODOS Czechia a.s.
+2018-02-27 22:38:36,275  DEBUG found emails in the queue: 0
+2018-02-27 22:39:06,315  DEBUG found emails in the queue: 0
+2018-02-27 22:39:22,561  INFO  Application is ended
+2018-02-27 22:39:36,375  DEBUG found emails in the queue: 0

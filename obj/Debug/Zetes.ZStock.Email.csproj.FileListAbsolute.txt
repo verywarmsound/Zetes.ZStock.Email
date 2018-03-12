@@ -1,0 +1,143 @@
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.Net4.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe.config
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Autofac.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Iesi.Collections.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.DB.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Dtos.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Framework.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Service.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.Validator.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.OData.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Linq.Dynamic.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Web.Http.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Api.Requests.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\EPPlus.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Pdf.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Net.Http.Formatting.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Newtonsoft.Json.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\ServiceStack.Interfaces.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\log4net.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.DocumentObjectModel.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.Rendering.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.Charting.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.DB.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Dtos.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Framework.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Service.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Autofac.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.Net4.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Iesi.Collections.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.Validator.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.OData.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Web.Http.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Api.Requests.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\EPPlus.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Pdf.pdb
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Net.Http.Formatting.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Newtonsoft.Json.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\ServiceStack.Interfaces.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\log4net.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.DocumentObjectModel.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.Rendering.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.Charting.xml
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\es\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\fa\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\fr\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\hr\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\it\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\lv\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\nl\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\pl\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\MigraDoc.Rendering.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\PdfSharp.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\PdfSharp.Charting.resources.dll
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.csprojResolveAssemblyReference.cache
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.exe
+W:\Zetes_SVN_CZ\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.Net4.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Autofac.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\log4net.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.DB.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Dtos.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Service.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.exe.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.csproj.CoreCompileInputs.cache
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Iesi.Collections.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Framework.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.Validator.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.OData.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Web.Http.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Api.Requests.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\EPPlus.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Pdf.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.Charting.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.DB.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.DB.dll.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Dtos.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Dtos.dll.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Framework.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Service.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Service.dll.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Autofac.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Iesi.Collections.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\log4net.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.Validator.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\NHibernate.OData.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Web.Http.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Api.Requests.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Api.Requests.dll.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\EPPlus.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Pdf.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Pdf.dll.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\PdfSharp.Charting.xml
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\es\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\fa\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\fr\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\hr\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\it\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\lv\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\nl\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\pl\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\pt-BR\NHibernate.Validator.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.exe
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe.config
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.pdb
+C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\obj\Debug\Zetes.ZStock.Email.csprojResolveAssemblyReference.cache

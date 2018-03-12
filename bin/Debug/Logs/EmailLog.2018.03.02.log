@@ -1,0 +1,67 @@
+2018-03-02 12:07:22,737  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-02 12:07:23,283  DEBUG found emails in the queue: 0
+2018-03-02 12:07:53,313  DEBUG found emails in the queue: 0
+2018-03-02 12:08:23,331  DEBUG found emails in the queue: 0
+2018-03-02 12:08:53,359  DEBUG found emails in the queue: 0
+2018-03-02 12:09:23,369  DEBUG found emails in the queue: 0
+2018-03-02 12:09:53,382  DEBUG found emails in the queue: 0
+2018-03-02 12:10:23,459  INFO  found emails in the queue: 1
+2018-03-02 12:10:27,960  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 12:10:13
+2018-03-02 12:10:57,993  DEBUG found emails in the queue: 0
+2018-03-02 12:11:27,996  DEBUG found emails in the queue: 0
+2018-03-02 12:11:58,000  DEBUG found emails in the queue: 0
+2018-03-02 12:12:28,012  DEBUG found emails in the queue: 0
+2018-03-02 12:12:58,024  DEBUG found emails in the queue: 0
+2018-03-02 12:13:28,040  DEBUG found emails in the queue: 0
+2018-03-02 12:13:58,060  DEBUG found emails in the queue: 0
+2018-03-02 12:14:11,986  INFO  Application is ended
+2018-03-02 12:14:28,071  DEBUG found emails in the queue: 0
+2018-03-02 12:50:47,504  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-02 12:50:48,077  INFO  found emails in the queue: 3
+2018-03-02 12:50:53,280  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 12:10:13
+2018-03-02 12:50:57,547  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 12:17:15
+2018-03-02 12:51:01,846  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 12:50:28
+2018-03-02 12:51:08,817  INFO  Application is ended
+2018-03-02 12:51:31,880  DEBUG found emails in the queue: 0
+2018-03-02 14:58:40,589  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-02 14:58:41,197  INFO  found emails in the queue: 7
+2018-03-02 14:58:46,142  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 12:10:13
+2018-03-02 14:58:50,432  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 13:20:17
+2018-03-02 14:58:54,676  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 13:40:49
+2018-03-02 14:58:59,059  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 14:31:21
+2018-03-02 14:59:03,302  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 14:38:02
+2018-03-02 14:59:07,561  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 14:38:44
+2018-03-02 14:59:11,945  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 14:39:52
+2018-03-02 14:59:42,053  DEBUG found emails in the queue: 0
+2018-03-02 15:00:12,067  DEBUG found emails in the queue: 0
+2018-03-02 15:00:42,154  DEBUG found emails in the queue: 0
+2018-03-02 15:01:12,215  DEBUG found emails in the queue: 0
+2018-03-02 15:01:42,271  DEBUG found emails in the queue: 0
+2018-03-02 15:02:12,328  DEBUG found emails in the queue: 0
+2018-03-02 15:02:42,381  DEBUG found emails in the queue: 0
+2018-03-02 15:03:12,427  DEBUG found emails in the queue: 0
+2018-03-02 15:03:42,491  DEBUG found emails in the queue: 0
+2018-03-02 15:04:12,514  DEBUG found emails in the queue: 0
+2018-03-02 15:04:42,571  DEBUG found emails in the queue: 0
+2018-03-02 15:05:12,632  DEBUG found emails in the queue: 0
+2018-03-02 15:05:42,686  DEBUG found emails in the queue: 0
+2018-03-02 15:06:12,727  DEBUG found emails in the queue: 0
+2018-03-02 15:06:42,757  DEBUG found emails in the queue: 0
+2018-03-02 15:07:12,786  DEBUG found emails in the queue: 0
+2018-03-02 15:07:42,814  DEBUG found emails in the queue: 0
+2018-03-02 15:08:12,848  DEBUG found emails in the queue: 0
+2018-03-02 15:08:42,912  INFO  found emails in the queue: 1
+2018-03-02 15:08:48,300  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: , with OriginalDocument: 03/02/2018 15:08:12
+2018-03-02 15:09:18,340  DEBUG found emails in the queue: 0
+2018-03-02 15:09:48,370  DEBUG found emails in the queue: 0
+2018-03-02 15:10:18,413  DEBUG found emails in the queue: 0
+2018-03-02 15:10:48,402  DEBUG found emails in the queue: 0
+2018-03-02 15:10:59,105  INFO  Application is ended
+2018-03-02 15:11:18,436  DEBUG found emails in the queue: 0
+2018-03-02 17:16:10,678  INFO  Application version 2.0.8 is started, working with catalog: BODOS
+2018-03-02 17:16:11,306  INFO  found emails in the queue: 1
+2018-03-02 17:16:15,964  INFO  Sent email to: imkarpacz@gmail.com, Customer ID: 111, with OriginalDocument: 0831159022
+2018-03-02 17:16:46,013  DEBUG there is no emails in the queue
+2018-03-02 17:17:16,026  DEBUG there is no emails in the queue
+2018-03-02 17:17:40,577  INFO  Application is ended
+2018-03-02 17:17:46,038  DEBUG there is no emails in the queue

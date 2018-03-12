@@ -1,0 +1,108 @@
+﻿Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Installing service Email Service...
+Service Email Service has been successfully installed.
+Creating EventLog source Email Service in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+Removing EventLog source Email Service.
+Service Email Service is being removed from the system...
+Service Email Service was successfully removed from the system.
+Attempt to stop service Email Service.
+Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Installing service Zetes.EmailService...
+Service Zetes.EmailService has been successfully installed.
+Creating EventLog source Zetes.EmailService in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+Removing EventLog source Zetes.EmailService.
+Service Zetes.EmailService is being removed from the system...
+Service Zetes.EmailService was successfully removed from the system.
+Attempt to stop service Zetes.EmailService.
+Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Installing service Zetes.EmailService...
+Service Zetes.EmailService has been successfully installed.
+Creating EventLog source Zetes.EmailService in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+Installing service Zetes.EmailService...
+Service Zetes.EmailService has been successfully installed.
+Creating EventLog source Zetes.EmailService in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+Installing service Zetes.EmailService...
+Service Zetes.EmailService has been successfully installed.
+Creating EventLog source Zetes.EmailService in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+Installing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
+Installing service Zetes.EmailService...
+Service Zetes.EmailService has been successfully installed.
+Creating EventLog source Zetes.EmailService in log Application...
+Committing assembly 'C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.exe
+   logfile = C:\Users\olga.korpacheva.ZETESCZ\Desktop\zetes old\ZStock\Hybrid\Zetes.ZStock\Zetes.ZStock.Email\bin\Debug\Zetes.ZStock.Email.InstallLog
